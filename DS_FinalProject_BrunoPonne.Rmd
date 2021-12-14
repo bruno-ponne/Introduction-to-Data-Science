@@ -1,5 +1,6 @@
 ---
 title: "Can institutional arrangements improve student performance?"
+
 author: "Bruno Gasparotto Ponne - bruno.ponne@gmail.com"
 output:
   html_document:
