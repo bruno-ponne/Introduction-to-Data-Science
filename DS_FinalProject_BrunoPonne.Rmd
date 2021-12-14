@@ -3,6 +3,7 @@ title: "Can institutional arrangements improve student performance?"
 author: "Bruno Gasparotto Ponne - bruno.ponne@gmail.com"
 output:
   html_document:
+    keep_md: true
     toc: yes
     toc_float: yes
 abstract: In 2007, a series of reforms were implemented in the education system in
@@ -52,7 +53,7 @@ plot_ceara()
 ```
 <br>
 
-The complete files to this analysis can be found on: https://github.com/brunoponne123/Intro_DS
+The complete files to this analysis can be found on: https://github.com/bruno-ponne/Introduction-to-Data-Science
 
 ### The reforms in Ceará, Brazil
 <div style="color:#4E4C4C; text-align: justify">
